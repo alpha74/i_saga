@@ -1,3 +1,5 @@
 ## AI Saga for Backend developers
 
-- <a href="https://github.com/alpha74/i_saga/blob/main/aisaga26/index.md"> AI Saga 26 </a>
+- [AI Saga 26](https://aisaga26.vercel.app/)
+- [Claude Digest 2026-1](https://github.com/alpha74/webcv/blob/master/claude/digest1.md)
+- [ChatGPT Digest 2026-1](https://github.com/alpha74/webcv/blob/master/chatgpt/digest1.md)
