@@ -6,5 +6,5 @@
 (I keep updating the content currently, latest first listing)
 
 - [AI Saga 26](https://aisaga26.vercel.app/)
-- [Claude Digest 2026-1](https://github.com/alpha74/webcv/blob/master/claude/digest1.md)
-- [ChatGPT Digest 2026-1](https://github.com/alpha74/webcv/blob/master/chatgpt/digest1.md)
+- [Claude Digest 2026-1](https://github.com/alpha74/aisaga/tree/main/claudegen)
+- [ChatGPT Digest 2026-1](https://github.com/alpha74/aisaga/tree/main/chatgptgen)
